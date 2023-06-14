@@ -1,4 +1,4 @@
-# Image Caption Generator with VGG16 and LSTM
+#Image Caption Generator with VGG16 and LSTM
 
 Dataset link: https://www.kaggle.com/datasets/adityajn105/flickr8k
 
